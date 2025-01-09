@@ -32,4 +32,4 @@ Employee Performance and Productivity Data. 2024. Mexwell. Kaggle
 Employed SQL to make a database, reduce redundancy by creating relational tables as follows.
 ![QuickDBD-export](https://github.com/user-attachments/assets/7b56b335-5ba2-4ff5-b499-5949b1e05039) 
 
-The documentation is found in Processing_data section
+The documentation for this step is found in Processing_data section. 
