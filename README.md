@@ -1,10 +1,10 @@
 # Workforce-Performance Analysis 
 
 ## Table of Contents 
-- [Project Overview] (#project-overview)
-- [Data Source] (#data-source)
-- [Tools] (#tools)
-- [Data Cleaning and Preparations] (#data-cleaning-and-preparations)
+- [Project Overview] (https://github.com/meiyuu0305/Workforce-Performance/edit/main/README.md#project-overview)
+- [Data Source] (https://github.com/meiyuu0305/Workforce-Performance/edit/main/README.md#data-source)
+- [Tools] (https://github.com/meiyuu0305/Workforce-Performance/edit/main/README.md#tools)
+- [Data Cleaning and Preparations] (https://github.com/meiyuu0305/Workforce-Performance/edit/main/README.md#data-cleaning-and-preparations)
 
 
 ### Project Overview 
