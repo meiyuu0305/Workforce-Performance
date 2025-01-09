@@ -1,9 +1,10 @@
-# Workforce-Performance
+# Workforce-Performance Analysis 
 
 ## Table of Contents 
 - [Project Overview] (#project-overview)
 - [Data Source] (#data-source)
-- [T
+- [Tools] (#tools)
+- [Data Cleaning and Preparations] (#data-cleaning-and-preparations)
 ### Project Overview 
 This data analysis project focuses on evaluating the performance of the current workforce by analyzing key performance indicators (KPIs) and identifying factors that impact employee performance. Through this analysis, we aim to uncover trends, gain actionable insights, and provide data-driven recommendations to enhance organizational efficiency and employee productivity.
 
@@ -21,3 +22,5 @@ Employee Performance and Productivity Data. 2024. Mexwell. Kaggle
 ### Data Cleaning and Preparations 
 1. Understanding the raw data
 2. Data cleaning and formatting
+
+Employed SQL to make a database, reduce redundancy by creating relational tables. The documentation is found in Processing_data section
